@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Entry",
+	"category" : "CuOOra-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"answers",
+		"topics"
+	],
+	"name" : "Question",
+	"type" : "normal"
+}
