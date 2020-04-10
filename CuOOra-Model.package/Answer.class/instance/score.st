@@ -1,0 +1,3 @@
+abstract
+score
+	^ 1
