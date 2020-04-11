@@ -5,4 +5,4 @@ initialize
 		questions: OrderedCollection new;
 		answers: OrderedCollection new;
 		following: OrderedCollection new;
-		interestedTopics: OrderedCollection.
+		interestedTopics: OrderedCollection new
