@@ -1,3 +1,3 @@
 abstract
 score
-	^ 2
+	^ 20

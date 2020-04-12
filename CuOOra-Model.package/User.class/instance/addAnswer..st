@@ -1,3 +1,3 @@
 creating
-addAnswer: answer
-	self answers add: answer
+addAnswer: anAnswer
+	self answers add: anAnswer
