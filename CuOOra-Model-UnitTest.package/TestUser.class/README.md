@@ -1,0 +1,1 @@
+The tests related to the user class implementation

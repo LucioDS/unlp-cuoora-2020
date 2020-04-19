@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LucioDeSimone 4/12/2020 21:50",
+	"super" : "AccessPoint",
+	"category" : "CuOOra-UI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LoginComponent",
+	"type" : "normal"
+}

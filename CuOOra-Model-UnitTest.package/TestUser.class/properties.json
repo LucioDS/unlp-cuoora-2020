@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "LucioDeSimone 4/10/2020 19:26",
+	"super" : "SUnitTest",
+	"category" : "CuOOra-Model-UnitTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mockUser1",
+		"mockUser2",
+		"mockAnswer",
+		"mockQuestion",
+		"mockTopic"
+	],
+	"name" : "TestUser",
+	"type" : "normal"
+}
