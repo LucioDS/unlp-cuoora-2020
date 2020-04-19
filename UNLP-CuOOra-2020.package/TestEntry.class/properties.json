@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "LucioDeSimone 4/11/2020 00:06",
+	"super" : "SUnitTest",
+	"category" : "UNLP-CuOOra-2020-Unit-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cuooraCpy",
+		"mockQuestion",
+		"likeReacts",
+		"dislikeReacts"
+	],
+	"name" : "TestEntry",
+	"type" : "normal"
+}

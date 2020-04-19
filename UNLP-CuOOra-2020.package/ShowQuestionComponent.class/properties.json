@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "LucioDeSimone 4/18/2020 14:05",
+	"super" : "HomeComponent",
+	"category" : "UNLP-CuOOra-2020-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"questionShowing"
+	],
+	"name" : "ShowQuestionComponent",
+	"type" : "normal"
+}

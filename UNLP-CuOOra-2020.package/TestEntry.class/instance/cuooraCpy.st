@@ -1,0 +1,3 @@
+accessing
+cuooraCpy
+	^ cuooraCpy

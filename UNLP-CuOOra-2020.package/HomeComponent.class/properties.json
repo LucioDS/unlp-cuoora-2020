@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LucioDeSimone 4/19/2020 15:04",
+	"super" : "WAComponent",
+	"category" : "UNLP-CuOOra-2020-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HomeComponent",
+	"type" : "normal"
+}

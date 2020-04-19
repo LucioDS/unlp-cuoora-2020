@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "SUnitTest",
+	"category" : "UNLP-CuOOra-2020-Unit-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mockAnswer",
+		"mockUser",
+		"mockQuestion",
+		"mockSelfAnswer"
+	],
+	"name" : "TestAnswer",
+	"type" : "normal"
+}

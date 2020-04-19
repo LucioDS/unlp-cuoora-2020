@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "UNLP-CuOOra-2020-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password",
+		"createdAt",
+		"interestedTopics",
+		"questions",
+		"answers",
+		"following"
+	],
+	"name" : "User",
+	"type" : "normal"
+}

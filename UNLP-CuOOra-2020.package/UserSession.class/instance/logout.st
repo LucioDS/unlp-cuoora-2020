@@ -1,0 +1,3 @@
+rendering
+logout
+	user := nil.

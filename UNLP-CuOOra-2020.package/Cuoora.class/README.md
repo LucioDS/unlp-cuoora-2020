@@ -1,0 +1,1 @@
+CuOOra is the class that makes bridge between users and resources (also other users). It persist the topics, users  and a single instance of itself (singleton pattern)  that simplifies the use of the package
