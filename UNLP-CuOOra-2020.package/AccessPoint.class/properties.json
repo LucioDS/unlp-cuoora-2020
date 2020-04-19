@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "LucioDeSimone 4/19/2020 15:03",
+	"super" : "WAComponent",
+	"category" : "UNLP-CuOOra-2020-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password"
+	],
+	"name" : "AccessPoint",
+	"type" : "normal"
+}

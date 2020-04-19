@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "LucioDeSimone 4/4/2020 17:52",
+	"super" : "Object",
+	"category" : "UNLP-CuOOra-2020-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"createdAt",
+		"author"
+	],
+	"name" : "Reaction",
+	"type" : "normal"
+}

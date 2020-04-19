@@ -1,0 +1,1 @@
+User details and interaction screen class

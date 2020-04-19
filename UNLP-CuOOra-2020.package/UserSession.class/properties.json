@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "LucioDeSimone 4/19/2020 15:03",
+	"super" : "WASession",
+	"category" : "UNLP-CuOOra-2020-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user"
+	],
+	"name" : "UserSession",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+This class is used to manage the user session (once authorized by the access point) in the entire web application. It helps to easily maintain the coherence and state of some objects.

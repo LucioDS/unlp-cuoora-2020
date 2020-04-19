@@ -1,0 +1,3 @@
+rendering
+loggedUserName
+	^ user username

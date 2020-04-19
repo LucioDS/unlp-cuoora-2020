@@ -1,0 +1,1 @@
+Cuoora class have many interactions with other classes and performs some complex operations such as mantain the coherency between collections of two classes.

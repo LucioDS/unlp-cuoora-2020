@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Entry",
+	"category" : "UNLP-CuOOra-2020-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"belongsTo"
+	],
+	"name" : "Answer",
+	"type" : "normal"
+}

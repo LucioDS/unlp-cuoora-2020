@@ -1,0 +1,3 @@
+rendering
+renderButtonsOn: anHtmlCanvas
+	self subclassResponsibility
