@@ -1,3 +1,4 @@
 adding
-react: reaction
-	self reacts add: reaction
+react: anObject
+	reacts := anObject 
+

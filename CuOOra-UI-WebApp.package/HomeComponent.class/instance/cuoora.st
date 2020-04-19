@@ -1,0 +1,3 @@
+accessing
+cuoora
+	^ Cuoora singleton

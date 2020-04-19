@@ -4,4 +4,5 @@ title: aTitleString content: aContentString by: aUser
 		title: aTitleString;
 		content: aContentString;
 		author: aUser;
+		reacts: Set new;
 		yourself

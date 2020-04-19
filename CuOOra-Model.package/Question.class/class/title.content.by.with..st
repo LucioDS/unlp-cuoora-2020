@@ -5,4 +5,5 @@ title: aTitleString content: aContentString by: aUser with: aTopic
 		content: aContentString;
 		author: aUser;
 		addTopic: aTopic;
+		reacts: Set new;
 		yourself

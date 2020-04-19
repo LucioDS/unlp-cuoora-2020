@@ -1,4 +1,5 @@
 accessing
 singleton
-	singleton ifNil: [ singleton := self new ].
+	singleton ifNil: [ singleton := self new.
+		singleton fillWithMockUpData   ].
 	^ singleton
